@@ -1,54 +1,154 @@
-🧮 NumPy Analyzer (Python)
+# 🧮 NumPy Analyzer – Python Data Toolkit
 
-📊 Powerful Array Analysis • NumPy Operations • Interactive CLI Tool
+✨ **Analyze • Manipulate • Understand NumPy Arrays Easily**
 
-Welcome to the NumPy Analyzer, a Python-based interactive toolkit that allows users to create, analyze, manipulate, and compute statistics on NumPy arrays through a clean menu-driven interface.
+Welcome to the **NumPy Analyzer**, a Python-based interactive CLI toolkit that helps users create, manipulate, and analyze NumPy arrays through a simple and intuitive menu-driven interface.
 
-This project demonstrates practical use of NumPy for numerical computing, combined with Object-Oriented Programming and CLI design.
+This project demonstrates how **Python + NumPy** can be used to perform powerful numerical operations with minimal code while maintaining a clean and structured design.
 
-🚀 Project Overview
+---
 
-The NumPy Analyzer allows users to perform advanced operations on arrays including:
+## 🚀 Project Overview
 
-🔹 Create 1D, 2D, and 3D NumPy arrays
-🔹 Perform mathematical operations between arrays
-🔹 Index and slice arrays dynamically
-🔹 Combine and split arrays
-🔹 Search, sort, and filter array elements
-🔹 Compute statistical aggregates
+The **NumPy Analyzer** is designed to help users work with numerical data efficiently.
+It provides tools to:
 
-The project provides a complete mini-toolkit for working with NumPy arrays interactively.
+🔹 Create **1D, 2D, and 3D arrays**
+🔹 Perform **mathematical operations between arrays**
+🔹 Apply **indexing and slicing techniques**
+🔹 **Combine or split arrays**
+🔹 **Search, sort, and filter elements**
+🔹 Compute **statistical metrics**
 
-🖼️ Application Dashboard
+The program runs as a **menu-driven command-line interface**, making it easy for users to explore NumPy operations interactively.
 
-Below is a preview of the CLI dashboard:
+---
 
-📌 Make sure the screenshot file is named dashboard.png and placed in the root directory of the repository.
+## 🖼️ Application Dashboard
 
-🛠️ Technologies Used
+Here is a preview of the program interface:
 
-🐍 Python 3
-📊 NumPy Library
-🧠 Object-Oriented Programming (OOP)
-📋 Menu-Driven CLI Interface
+![NumPy Analyzer Dashboard](./dashboard.png)
 
-✨ Key Features
+📌 **Note:**
+Place the screenshot file named **`dashboard.png`** in the root directory of your repository so it displays correctly.
 
-✔️ Create 1D, 2D, and 3D arrays dynamically
-✔️ Perform array arithmetic operations
-✔️ Indexing and slicing support
-✔️ Combine arrays using stacking
-✔️ Split arrays into multiple parts
-✔️ Search values using NumPy functions
-✔️ Sort and filter array elements
-✔️ Calculate statistics like:
+---
 
-Sum
+## 🛠️ Technologies Used
 
-Mean
+🐍 **Python 3**
+📊 **NumPy Library**
+🧠 **Object-Oriented Programming (OOP)**
+📋 **CLI (Command Line Interface)**
 
-Median
+---
 
-Standard Deviation
+## ✨ Key Features
 
-Variance.
+✔️ Create **1D / 2D / 3D NumPy arrays**
+✔️ Perform **addition, subtraction, multiplication, division**
+✔️ **Index and slice arrays dynamically**
+✔️ **Combine arrays using stacking**
+✔️ **Split arrays into smaller segments**
+✔️ **Search values using NumPy functions**
+✔️ **Sort and filter array data**
+✔️ Calculate statistics such as:
+
+* 🔢 Sum
+* 📊 Mean
+* 📉 Median
+* 📏 Standard Deviation
+* 📐 Variance
+
+---
+
+## 📂 Project Structure
+
+```
+numpy-analyzer/
+│
+├── README.md
+├── dashboard.png
+└── project-8.py
+```
+
+---
+
+## ▶️ How to Run the Project
+
+### 1️⃣ Clone the Repository
+
+```
+git clone https://github.com/your-username/numpy-analyzer.git
+```
+
+### 2️⃣ Navigate to the Project Folder
+
+```
+cd numpy-analyzer
+```
+
+### 3️⃣ Install NumPy
+
+```
+pip install numpy
+```
+
+### 4️⃣ Run the Program
+
+```
+python project-8.py
+```
+
+---
+
+## 📋 Main Menu Interface
+
+```
+Welcome to the NumPy Analyzer
+
+1. Create a Numpy Array
+2. Perform Mathematical Operations
+3. Combine or Split Arrays
+4. Search, Sort, or Filter Arrays
+5. Compute Aggregates and Statistics
+6. Exit
+```
+
+---
+
+## 🎯 Skills Demonstrated
+
+📊 NumPy Array Manipulation
+🧮 Mathematical Computations
+🔍 Data Searching & Filtering
+📈 Statistical Analysis
+🐍 Python OOP Programming
+⚡ CLI Application Development
+
+---
+
+## 👨‍💻 About the Developer
+
+**Meet Mehta**
+
+🐍 Python Developer
+📊 Interested in Data Processing & Analysis
+🚀 Passionate about building practical Python tools.
+
+---
+
+## ⭐ Support
+
+If you like this project:
+
+⭐ Star the repository
+🍴 Fork it and experiment
+💬 Share suggestions or improvements
+
+Your support helps me keep building more projects!
+
+---
+
+✨ *Thank you for visiting this project repository!* ✨
